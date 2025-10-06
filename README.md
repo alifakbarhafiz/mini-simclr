@@ -8,7 +8,7 @@ A PyTorch implementation of SimCLR (Simple Framework for Contrastive Learning of
 
 <div align="center">
 
-![t-SNE Visualization](outputs/plots/tsne_visualization_fin.png.png)
+![t-SNE Visualization](outputs/plots/tsne_visualization_fin.png).png)
 *t-SNE visualization of learned embeddings on CIFAR-10 test set*
 
 ![UMAP Visualization](outputs/plots/umap_visualization_fin.png).png)
@@ -268,6 +268,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Author**: Alif Akbar Hafiz
 
 If you find this implementation helpful, please consider giving it a ⭐!
+
 
 
 
