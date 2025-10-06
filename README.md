@@ -1,20 +1,17 @@
 <div align="center">
 
-# SimCLR CIFAR-10
+# SimCLR on CIFAR-10
 
-A PyTorch implementation of SimCLR (Simple Framework for Contrastive Learning of Visual Representations) for self-supervised learning on CIFAR-10.
+*A PyTorch implementation of SimCLR (Simple Framework for Contrastive Learning of Visual Representations) for self-supervised learning on CIFAR-10.*
+
+---
+
+<img src="outputs/plots/tsne_visualization_fin.png" width="45%"/> 
+<img src="outputs/plots/umap_visualization_fin.png" width="45%"/>
+
+*Figure: t-SNE (left) and UMAP (right) visualizations of learned embeddings on the CIFAR-10 test set.*
 
 </div>
-
-<div align="center">
-
-![t-SNE Visualization](outputs/plots/tsne_visualization_fin.png).png)
-*t-SNE visualization of learned embeddings on CIFAR-10 test set*
-
-![UMAP Visualization](outputs/plots/umap_visualization_fin.png).png)
-*UMAP visualization of learned embeddings on CIFAR-10 test set*
-</div>
-
 ---
 
 ## 📋 Table of Contents
@@ -268,6 +265,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Author**: Alif Akbar Hafiz
 
 If you find this implementation helpful, please consider giving it a ⭐!
+
 
 
 
